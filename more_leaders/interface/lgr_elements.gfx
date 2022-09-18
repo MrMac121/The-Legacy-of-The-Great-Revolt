@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_frontend_lgr_logo"
+		texturefile = "gfx/interface/lgr_logo.dds"
+		noOfFrames = 1
+	}
+}

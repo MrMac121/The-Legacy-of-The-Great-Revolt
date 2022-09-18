@@ -1,0 +1,32 @@
+
+state={
+	id=433
+	name="STATE_433"
+
+	history={
+		victory_points = {
+			13245 5 
+		}
+		victory_points = {
+			13246 3 
+		}
+		victory_points = {
+			13242 15 
+		}
+		owner = RAJ
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		1199 2054 2092 4915 4971 7905 12743 12829 13242 13243 13245 13246 13295 13296 13297 
+	}
+	manpower=7786000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

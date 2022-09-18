@@ -1,0 +1,43 @@
+
+state={
+	id=320
+	name="STATE_320"
+	manpower = 286410
+
+	state_category = enclave
+
+	history={
+		owner = FRA
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 3 #was: 5
+			10149 = {
+				naval_base = 6
+			}
+			13330 = {
+				naval_base = 3
+			}
+			13328 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			10149 5 
+		}
+		victory_points = {
+			13327 1 
+		}
+		victory_points = {
+			13328 1 
+		}
+		victory_points = {
+			13330 1 
+		}
+	}
+
+	provinces={ 
+		10149 13327 13328 13330
+	}
+
+	local_supplies=0.0 
+}

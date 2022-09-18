@@ -1,0 +1,290 @@
+﻿division_template = {
+	name = "Infantry Division"
+	division_names_group = RAJ_HIST_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+        infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+        infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+		cavalry = { x = 3 y = 0 }
+	}
+	support = {
+		artillery = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }
+	}
+}
+
+division_template = {
+	name = "District Garrison"
+	
+	division_names_group = RAJ_HIST_01	
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+        infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+        infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+		infantry = { x = 3 y = 0 }
+	}
+	support = {
+		artillery = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }
+		engineer = { x = 0 y = 2 } 
+	}
+}
+
+division_template = {
+	name = "Armored-Division"
+	
+	division_names_group = RAJ_ARM_01
+
+	regiments = {
+		light_armor = { x = 0 y = 0 }
+		light_armor = { x = 0 y = 1 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+	}
+}
+
+division_template = {
+	name = "Northwestern Frontier Brigade"
+	
+	division_names_group = RAJ_HIST_01	
+	
+	regiments = {
+		mountaineers = { x = 0 y = 0 }
+        infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+        infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+		infantry = { x = 3 y = 0 }
+		infantry = { x = 3 y = 1 }
+		infantry = { x = 3 y = 2 }
+		cavalry = { x = 4 y = 0 }
+	}
+	support = {
+		artillery = { x = 0 y = 0 }
+	}
+}
+
+division_template = {
+	name = "Commonwealth Garrison"
+	
+	division_names_group = RAJ_HIST_01
+	
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+        artillery_brigade = { x = 1 y = 0 }
+        cavalry = { x = 2 y = 0 }
+	}
+}
+
+
+####### OOB #######
+units = {
+	#India Command
+	
+	#Northern Command
+	
+	division= {	# "1st (Peshawar) Division"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 101
+		}
+		location = 12717
+		division_template = "Infantry Division"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.5
+	}
+	division= {	# "Kohat Brigade"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 102
+		}
+		location = 4998
+		division_template = "Northwestern Frontier Brigade"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.5
+	}
+	division= {	# "2nd (Rawalpindi) Division"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 103
+		}
+		location = 12005
+		division_template = "Infantry Division"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.5
+	}
+	division= {	# "3rd (Lahore) Division"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 104
+		}
+		location = 10843
+		division_template = "Infantry Division"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.5
+	}
+	division= {	# "Bannu Brigade"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 105
+		}
+		location = 1978
+		division_template = "Northwestern Frontier Brigade"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.5
+	}
+	division= {	# "Derajat Brigade"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 106
+		}
+		location = 12763
+		division_template = "Northwestern Frontier Brigade"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.5
+	}
+	
+	
+	
+	#Eastern Command
+	division= {	# "7th (Meerut) Division"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 107
+		}
+		location = 11955
+		division_template = "Infantry Division"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.5
+	}
+	division= {	# "8th (Lucknow) Division"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 108
+		}
+		location = 12137
+		division_template = "Infantry Division"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.5
+	}
+	division= {	# "Burma Division"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 109
+		}
+		location = 1492
+		division_template = "District Garrison"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.5
+	}
+	
+	#Western Command
+	division= {	# "5th (Mhow) Division"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 110
+		}
+		location = 12781
+		division_template = "Infantry Division"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.5
+	}
+	division= {	# "6th (Poona) Division"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 111
+		}
+		location = 1349
+		division_template = "Infantry Division"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.5
+	}
+	division= {	# "9th (Secunderabad) Division"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 112
+		}
+		location = 8087
+		division_template = "District Garrison"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.5
+	}
+	
+	division= {	# "4th (Quetta) Division"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 113
+		}
+		location = 5105
+		division_template = "Infantry Division"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.5
+	}
+	
+	division= {	# "Aden Brigade"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 114
+		}
+		location = 5074
+		division_template = "Commonwealth Garrison"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.5
+	}
+	
+	fleet = {
+		name = "Indian Command"
+		naval_base = 1349 # Bombay
+		task_force = {				
+			name = "Indian Ocean Task Force"			
+			location = 1349 # Bombay			
+			ship = { name = "HMIS Hindustan" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAJ version_name = "Hastings-class" } } }
+			ship = { name = "HMIS Clive" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAJ version_name = "24-class" } } }
+			Ship = { name = "HMIS Cornwallis" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAJ version_name = "Aubrietia-class" } } }
+			ship = { name = "HMIS Indus" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAJ version_name = "Grimsby-class" } } }
+		}
+	}
+
+air_wings = {
+	### AHQ India
+	439 = { 
+		### AHQ India -- Fairey Gordons, Battles
+		CAS_equipment_1 = {
+			owner = "RAJ" 
+			amount = 80
+		}
+	}
+}
+
+
+##### Starting Production #####
+instant_effect = {
+		
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_1
+			creator = "RAJ"
+		}
+		requested_factories = 1
+		progress = 0.12
+		efficiency = 100
+	}
+}
