@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_raj_military_buildup"
+		texturefile = "gfx/interface/ideas/idea_RAJ_military_buildup.dds"
+	}
+}	
