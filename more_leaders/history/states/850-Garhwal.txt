@@ -11,14 +11,11 @@ state={
 			5157 10 
 		}
 		victory_points = {
-			13261 5 
-		}
-		victory_points = {
-			13262 8 
+			13262 5 
 		}
 	}
 	provinces={
-		5157 13262 13315 13261
+		5157 13262 13315
 	}
 	manpower=1134122
 	state_category=rural

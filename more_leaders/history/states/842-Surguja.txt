@@ -7,18 +7,17 @@ state={
 		owner = RAJ
 		buildings = {
 			infrastructure = 1
-
 		}
 		victory_points = {
-			4513 3 
+			7497 3 
 		}
 		victory_points = {
-			7497 5 
+			1510 5 
 		}
 	}
 
 	provinces={
-		1510 4513 7497 12375 
+		1510 7497 12375 
 	}
 	manpower=1900000
 	buildings_max_level_factor=1.000

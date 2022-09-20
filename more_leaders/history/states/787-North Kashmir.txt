@@ -5,12 +5,11 @@ state={
 
 	history={
 		victory_points = {
-			2084 5 
+			2084 3 
 		}
 		owner = RAJ
 		buildings = {
 			infrastructure = 1
-
 		}
 		add_core_of = PAK
 		add_core_of = RAJ
