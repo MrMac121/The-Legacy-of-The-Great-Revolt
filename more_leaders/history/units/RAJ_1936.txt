@@ -250,6 +250,8 @@ units = {
 		start_equipment_factor = 0.5
 	}
 	
+if = {
+	limit = { has_dlc = "Man the Guns" }
 	fleet = {
 		name = "Indian Command"
 		naval_base = 1349 # Bombay
@@ -262,6 +264,7 @@ units = {
 			ship = { name = "HMIS Indus" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAJ version_name = "Grimsby-class" } } }
 		}
 	}
+}
 
 ##### Starting Production #####
 instant_effect = {		
