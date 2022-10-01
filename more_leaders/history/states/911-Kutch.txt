@@ -1,0 +1,29 @@
+
+state={
+	id=911
+	name="STATE_911"
+	manpower = 1140000
+	
+	
+	state_category = pastoral
+	resources={
+		oil=1
+	}
+
+	history={
+		owner = RAJ
+		victory_points = {
+			13259 3
+		}
+		buildings = {
+			infrastructure = 1	
+		}
+
+	}
+
+	provinces={
+		1061 7020 13260 13259 13357
+	}
+
+	local_supplies=0.0 
+}

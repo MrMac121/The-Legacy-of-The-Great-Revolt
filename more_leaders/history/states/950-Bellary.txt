@@ -1,0 +1,22 @@
+state={
+	id=950
+	name="STATE_950"
+	
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			13323 3 
+		}
+	}
+	
+	provinces={
+		13323 
+	}
+	manpower=241314
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

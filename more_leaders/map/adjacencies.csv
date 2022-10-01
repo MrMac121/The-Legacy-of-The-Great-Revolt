@@ -130,18 +130,11 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 2455;2506;;-1;-1;-1;-1;-1;DANISH_BELTS_STRAIT;Øresund
 5412;7678;;-1;-1;-1;-1;-1;BOSPHORUS_STRAIT;Bosphorus
 10825;1991;impassable;-1;-1;-1;-1;-1;;Himalayas
-10825;8029;impassable;-1;-1;-1;-1;-1;;Himalayas
-10910;1991;impassable;-1;-1;-1;-1;-1;;Himalayas
-10910;12807;impassable;-1;-1;-1;-1;-1;;Himalayas
-12730;2098;impassable;-1;-1;-1;-1;-1;;Himalayas
 12730;5018;impassable;-1;-1;-1;-1;-1;;Himalayas
-10810;5018;impassable;-1;-1;-1;-1;-1;;Himalayas
 1996;5018;impassable;-1;-1;-1;-1;-1;;Himalayas
 1996;8041;impassable;-1;-1;-1;-1;-1;;Himalayas
-1996;5102;impassable;-1;-1;-1;-1;-1;;Himalayas
 4318;5102;impassable;-1;-1;-1;-1;-1;;Himalayas
 1898;8029;impassable;-1;-1;-1;-1;-1;;Himalayas
-1898;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
 3989;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
 1129;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
 4558;10826;impassable;-1;-1;-1;-1;-1;;peshawar mountains
@@ -174,7 +167,134 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 4391;4828;impassable;-1;-1;-1;-1;-1;;pamir mountains
 4391;1703;impassable;-1;-1;-1;-1;-1;;pamir mountains
 4391;12526;impassable;-1;-1;-1;-1;-1;;pamir mountains
+611;3612;impassable;-1;-1;-1;-1;-1;;western alps
+11570;3612;impassable;-1;-1;-1;-1;-1;;western alps
+11570;9587;impassable;-1;-1;-1;-1;-1;;western alps
+6635;9587;impassable;-1;-1;-1;-1;-1;;western alps
+3641;11601;impassable;-1;-1;-1;-1;-1;;central alps
+3641;658;impassable;-1;-1;-1;-1;-1;;central alps
+6661;3662;impassable;-1;-1;-1;-1;-1;;eastern alps
+3662;11587;impassable;-1;-1;-1;-1;-1;;eastern alps
+11587;3660;impassable;-1;-1;-1;-1;-1;;eastern alps
+3660;6675;impassable;-1;-1;-1;-1;-1;;eastern alps
+6675;9633;impassable;-1;-1;-1;-1;-1;;eastern alps
+9633;9630;impassable;-1;-1;-1;-1;-1;;eastern alps
+9630;11618;impassable;-1;-1;-1;-1;-1;;eastern alps
+671;11634;impassable;-1;-1;-1;-1;-1;;austrian alps
+671;3675;impassable;-1;-1;-1;-1;-1;;austrian alps
+3675;668;impassable;-1;-1;-1;-1;-1;;austrian alps
+3674;3675;impassable;-1;-1;-1;-1;-1;;austrian alps
+3674;6691;impassable;-1;-1;-1;-1;-1;;austrian alps
+6691;6687;impassable;-1;-1;-1;-1;-1;;austrian alps
+6691;9650;impassable;-1;-1;-1;-1;-1;;austrian alps
+9650;3684;impassable;-1;-1;-1;-1;-1;;austrian alps
 3314;6336;sea;2752;2885;1578;2890;1581;;Afsluitdijk
 
 7265;10201;sea;7479;-1;-1;-1;-1;;Palk Strait
+12892;12807;impassable;-1;-1;-1;-1;-1;;Himalayas
+4435;4900;impassable;-1;-1;-1;-1;-1;;Himalayas
+8010;2014;impassable;-1;-1;-1;-1;-1;;Himalayas
+12860;2014;impassable;-1;-1;-1;-1;-1;;Himalayas
+13325;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
+13325;12884;impassable;-1;-1;-1;-1;-1;;Himalayas
+13325;7316;impassable;-1;-1;-1;-1;-1;;Himalayas
+12754;7316;impassable;-1;-1;-1;-1;-1;;Himalayas
+10821;7273;impassable;-1;-1;-1;-1;-1;;Himalayas
+10821;5042;impassable;-1;-1;-1;-1;-1;;Himalayas
+13335;8005;impassable;-1;-1;-1;-1;-1;;Himalayas
+12884;7273;impassable;-1;-1;-1;-1;-1;;Himalayas
+5042;4973;impassable;-1;-1;-1;-1;-1;;Himalayas
+7316;7273;impassable;-1;-1;-1;-1;-1;;Himalayas
+12754;8005;impassable;-1;-1;-1;-1;-1;;Himalayas
+5157;13315;impassable;-1;-1;-1;-1;-1;;Himalayas
+10821;1970;impassable;-1;-1;-1;-1;-1;;Himalayas
+4558;2084;impassable;-1;-1;-1;-1;-1;;Himalayas
+12763;1910;impassable;-1;-1;-1;-1;-1;;Himalayas
+7847;5105;impassable;-1;-1;-1;-1;-1;;Himalayas
+7847;8044;impassable;-1;-1;-1;-1;-1;;Himalayas
+7847;4990;impassable;-1;-1;-1;-1;-1;;Himalayas
+10813;8098;impassable;-1;-1;-1;-1;-1;;Himalayas
+10735;8098;impassable;-1;-1;-1;-1;-1;;Himalayas
+7049;8066;impassable;-1;-1;-1;-1;-1;;Himalayas
+7049;1179;impassable;-1;-1;-1;-1;-1;;Himalayas
+10108;1179;impassable;-1;-1;-1;-1;-1;;Himalayas
+1179;8066;impassable;-1;-1;-1;-1;-1;;Himalayas
+7917;5043;impassable;-1;-1;-1;-1;-1;;Himalayas
+7917;8066;impassable;-1;-1;-1;-1;-1;;Himalayas
+8098;8013;impassable;-1;-1;-1;-1;-1;;Himalayas
+8066;12761;impassable;-1;-1;-1;-1;-1;;Himalayas
+10173;12717;impassable;-1;-1;-1;-1;-1;;Himalayas
+12761;8013;impassable;-1;-1;-1;-1;-1;;Himalayas
+2041;10821;impassable;-1;-1;-1;-1;-1;;Himalayas
+9991;7122;impassable;-1;-1;-1;-1;-1;;India Mandalay
+997;7122;impassable;-1;-1;-1;-1;-1;;India Mandalay
+997;11966;impassable;-1;-1;-1;-1;-1;;India Mandalay
+997;3999;impassable;-1;-1;-1;-1;-1;;India Mandalay
+10090;3999;impassable;-1;-1;-1;-1;-1;;India Mandalay
+13321;4588;impassable;-1;-1;-1;-1;-1;;India Mandalay
+13321;4087;impassable;-1;-1;-1;-1;-1;;India Mandalay
+13320;4087;impassable;-1;-1;-1;-1;-1;;India Mandalay
+13322;4087;impassable;-1;-1;-1;-1;-1;;India Mandalay
+1996;1197;impassable;-1;-1;-1;-1;-1;;India Mandalay
+7634;7179;impassable;-1;-1;-1;-1;-1;;India Bangladesh
+10090;7179;impassable;-1;-1;-1;-1;-1;;India Bangladesh
+997;9991;impassable;-1;-1;-1;-1;-1;;India Bangladesh
+997;7179;impassable;-1;-1;-1;-1;-1;;India Bangladesh
+12395;1581;impassable;-1;-1;-1;-1;-1;;North East India
+1116;10810;impassable;-1;-1;-1;-1;-1;;North East India
+10813;4990;impassable;-1;-1;-1;-1;-1;;Himalayas
+4513;10428;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+4513;9946;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+11924;10116;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+11924;12462;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+11924;10060;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+11924;10428;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+7090;11978;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+7372;10255;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+7372;4237;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+1622;10469;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+1622;12241;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+7465;12241;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+7428;12241;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+7428;7372;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+10296;1317;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+10296;10756;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+1430;10296;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+12180;1344;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+12180;7310;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+1344;7310;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+1344;7436;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+12779;1430;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+12779;10756;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+10808;1268;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+8067;1268;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+8067;4315;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+7363;4315;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+12275;4315;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+12275;7395;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+12275;10274;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+12275;7391;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+12275;7447;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+12275;7395;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+10296;10259;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+7497;12307;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+7497;1510;impassable;-1;-1;-1;-1;-1;;Eastern Ghats
+7288;7402;impassable;-1;-1;-1;-1;-1;;Western Ghats
+7288;1321;impassable;-1;-1;-1;-1;-1;;Western Ghats
+7288;4327;impassable;-1;-1;-1;-1;-1;;Western Ghats
+7288;1238;impassable;-1;-1;-1;-1;-1;;Western Ghats
+10130;1238;impassable;-1;-1;-1;-1;-1;;Western Ghats
+10130;10274;impassable;-1;-1;-1;-1;-1;;Western Ghats
+10130;12247;impassable;-1;-1;-1;-1;-1;;Western Ghats
+10130;1409;impassable;-1;-1;-1;-1;-1;;Western Ghats
+7395;7391;impassable;-1;-1;-1;-1;-1;;Western Ghats
+4344;10190;impassable;-1;-1;-1;-1;-1;;Western Ghats
+4344;7391;impassable;-1;-1;-1;-1;-1;;Western Ghats
+7119;7013;impassable;-1;-1;-1;-1;-1;;Western Ghats
+7232;10210;impassable;-1;-1;-1;-1;-1;;Western Ghats
+7232;12182;impassable;-1;-1;-1;-1;-1;;Western Ghats
+7232;13356;impassable;-1;-1;-1;-1;-1;;Western Ghats
+7232;13257;impassable;-1;-1;-1;-1;-1;;Western Ghats
+4395;13257;impassable;-1;-1;-1;-1;-1;;Western Ghats
+4291;1273;impassable;-1;-1;-1;-1;-1;;Western Ghats
 -1;-1;;-1;-1;-1;-1;-1;-1
