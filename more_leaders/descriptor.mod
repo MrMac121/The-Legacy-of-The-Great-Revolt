@@ -10,5 +10,5 @@ tags={
 }
 name="The Legacy of The Great Revolt(India Expanded)(ALPHA)"
 picture="Thumbnail.png"
-supported_version="1.11.13"
+supported_version="1.12.2"
 remote_file_id="2849473785"
