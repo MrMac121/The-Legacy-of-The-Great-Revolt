@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_SKI_tashi_namgyal"
+		texturefile = "gfx/leaders/SKI/Portrait_The_Ski_Tashi_Namgyal.dds"
+	}
+}	

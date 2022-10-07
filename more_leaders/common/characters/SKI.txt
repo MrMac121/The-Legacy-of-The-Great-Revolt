@@ -1,0 +1,16 @@
+characters={
+	SKI_tashi_namgyal={
+		name=SKI_tashi_namgyal
+		portraits={
+			civilian={
+				large="GFX_SKI_tashi_namgyal"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	#Illusive Gentleman auto-generated
+}

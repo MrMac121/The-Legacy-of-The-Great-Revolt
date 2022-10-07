@@ -184,12 +184,12 @@ characters={
 		}
 	}	
 	
-	RAJ_charles_harvey={
-		name=RAJ_charles_harvey
+	IND_charles_harvey={
+		name=IND_charles_harvey
 		portraits={
 			army={
-				large="GFX_RAJ_charles_harvey"
-				small=GFX_portrait_RAJ_charles_harvey_small
+				large="GFX_IND_charles_harvey"
+				small=GFX_portrait_IND_charles_harvey_small
 			}
 		}
 		corps_commander={
@@ -202,12 +202,12 @@ characters={
 		}
 	}
 	
-	RAJ_david_tennant={
-		name=RAJ_david_tennant
+	IND_david_tennant={
+		name=IND_david_tennant
 		portraits={
 			army={
-				large="GFX_RAJ_david_tennant"
-				small=GFX_portrait_RAJ_david_tennant_small
+				large="GFX_IND_david_tennant"
+				small=GFX_portrait_IND_david_tennant_small
 			}
 		}
 		corps_commander={
@@ -221,10 +221,10 @@ characters={
 		}
 		advisor={
 			slot = high_command
-			idea_token = RAJ_david_tennant
+			idea_token = IND_david_tennant
 			ledger = army
 				allowed = {
-					original_tag = RAJ
+					original_tag = IND
 				}
 				traits = {
 					army_chief_drill_1
@@ -236,12 +236,12 @@ characters={
 		}
 	}
 	
-	RAJ_douglas_baird={
-		name=RAJ_douglas_baird
+	IND_douglas_baird={
+		name=IND_douglas_baird
 		portraits={
 			army={
-				large="GFX_RAJ_douglas_baird"
-				small=GFX_portrait_RAJ_douglas_baird_small
+				large="GFX_IND_douglas_baird"
+				small=GFX_portrait_IND_douglas_baird_small
 			}
 		}
 		corps_commander={
@@ -254,9 +254,9 @@ characters={
 		}
 		advisor={
 			slot = high_command
-			idea_token = RAJ_douglas_baird
+			idea_token = IND_douglas_baird
 			allowed = {
-					original_tag = RAJ
+					original_tag = IND
 				}
 				traits = {
 					army_chief_defensive_2
@@ -268,11 +268,11 @@ characters={
 		}
 	}
 	
-	RAJ_hiraji_jehangir_manekji_cursetji={
-		name=RAJ_hiraji_jehangir_manekji_cursetji
+	IND_hiraji_jehangir_manekji_cursetji={
+		name=IND_hiraji_jehangir_manekji_cursetji
 		portraits={
 			army={
-				large="GFX_RAJ_hiraji_jehangir_manekji_cursetji"
+				large="GFX_IND_hiraji_jehangir_manekji_cursetji"
 				small=GFX_portrait_hiraji_jehangir_manekji_cursetji_small
 			}
 		}

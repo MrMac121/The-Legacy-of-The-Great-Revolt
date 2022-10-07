@@ -1,6 +1,6 @@
 ﻿division_template = {
 	name = "Infantry Division"
-	division_names_group = RAJ_HIST_01
+	division_names_group = IND_HIST_01
 
 	regiments = {
 		infantry = { x = 0 y = 0 }
@@ -23,7 +23,7 @@
 division_template = {
 	name = "District Garrison"
 	
-	division_names_group = RAJ_HIST_01	
+	division_names_group = IND_HIST_01	
 
 	regiments = {
 		infantry = { x = 0 y = 0 }
@@ -47,7 +47,7 @@ division_template = {
 division_template = {
 	name = "Armored-Division"
 	
-	division_names_group = RAJ_ARM_01
+	division_names_group = IND_ARM_01
 
 	regiments = {
 		light_armor = { x = 0 y = 0 }
@@ -60,7 +60,7 @@ division_template = {
 division_template = {
 	name = "Northwestern Frontier Brigade"
 	
-	division_names_group = RAJ_HIST_01	
+	division_names_group = IND_HIST_01	
 	
 	regiments = {
 		mountaineers = { x = 0 y = 0 }
@@ -83,7 +83,7 @@ division_template = {
 division_template = {
 	name = "Commonwealth Garrison"
 	
-	division_names_group = RAJ_HIST_01
+	division_names_group = IND_HIST_01
 	
 	regiments = {
 		infantry = { x = 0 y = 0 }
@@ -258,10 +258,10 @@ if = {
 		task_force = {				
 			name = "Indian Ocean Task Force"			
 			location = 1349 # Bombay			
-			ship = { name = "HMIS Hindustan" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAJ version_name = "Hastings-class" } } }
-			ship = { name = "HMIS Clive" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAJ version_name = "24-class" } } }
-			Ship = { name = "HMIS Cornwallis" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAJ version_name = "Aubrietia-class" } } }
-			ship = { name = "HMIS Indus" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = RAJ version_name = "Grimsby-class" } } }
+			ship = { name = "HMIS Hindustan" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = IND version_name = "Hastings-class" } } }
+			ship = { name = "HMIS Clive" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = IND version_name = "24-class" } } }
+			Ship = { name = "HMIS Cornwallis" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = IND version_name = "Aubrietia-class" } } }
+			ship = { name = "HMIS Indus" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = IND version_name = "Grimsby-class" } } }
 		}
 	}
 }
@@ -271,7 +271,7 @@ instant_effect = {
 	add_equipment_production = {
 		equipment = {
 			type = infantry_equipment_1
-			creator = "RAJ"
+			creator = "IND"
 		}
 		requested_factories = 2
 		progress = 0.12

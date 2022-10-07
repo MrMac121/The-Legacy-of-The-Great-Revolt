@@ -2,17 +2,13 @@
 state={
 	id=426
 	name="STATE_426"
-	resources={
-		steel=25.000
-		chromium=20.000
-		aluminium=1.000
-	}
 
 	history={
-		owner = RAJ
+		owner = IND
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
+
 		}
 		victory_points = {
 			10088 15 
@@ -23,16 +19,12 @@ state={
 		victory_points = {
 			10116 5 
 		}
-		victory_points = {
-			4513 3 
-		}
-
 	}
 
 	provinces={
-		1059 1101 1538 4104 4513 7090 9946 10060 10088 10116 10428 10469 11924 12063 12241 12462 13258 13361 
+		4104 9946 10088 10116 12063 12462 13361 
 	}
-	manpower=14520100
+	manpower=11520100
 	buildings_max_level_factor=1.000
 	state_category=rural
 	local_supplies=0.000

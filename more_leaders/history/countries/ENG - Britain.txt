@@ -191,7 +191,7 @@ if = {
 		autonomous_state = autonomy_integrated_puppet
 	}
 	set_autonomy = {
-		target = RAJ
+		target = IND
 		autonomous_state = autonomy_colony
 		freedom_level = 0.35
 	}
@@ -215,9 +215,27 @@ if = {
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.2
 	}
+	set_autonomy = {
+		target = SKI
+		autonomous_state = autonomy_colony
+		freedom_level = 0.35
+	}
+	set_autonomy = {
+		target = BHU
+		autonomous_state = autonomy_colony
+		freedom_level = 0.35
+	}
+	set_autonomy = {
+		target = OMA
+		autonomous_state = autonomy_colony
+		freedom_level = 0.35
+	}
 	else = {
 		puppet = MAL
 		puppet = RAJ
+		puppet = SKI
+		puppet = BHU
+		puppet = OMA
 	}
 }
 
@@ -455,9 +473,12 @@ add_to_faction = AST
 add_to_faction = NZL
 add_to_faction = SAF
 
-give_military_access = RAJ
-add_to_faction = RAJ		# Must be after puppet
+give_military_access = IND
+add_to_faction = IND		# Must be after puppet
 add_to_faction = MAL
+add_to_faction = BHU
+add_to_faction = SKI
+add_to_faction = NEP
 
 #give_guarantee = CZE
 

@@ -3,7 +3,7 @@ state={
 	name="STATE_921"
 
 	history={
-		owner = RAJ
+		owner = IND
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

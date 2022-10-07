@@ -4,7 +4,7 @@ state={
 	name="STATE_445"
 
 	history={
-		owner = RAJ
+		owner = IND
 		victory_points = {
 			7662 8 
 		}
@@ -18,7 +18,7 @@ state={
 		}
 		add_core_of = PAK
 		add_core_of = BAN
-		add_core_of = RAJ
+		add_core_of = IND
 	}
 
 	provinces={

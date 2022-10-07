@@ -20,62 +20,62 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = GFX_RAJ_charles_harvey
-		texturefile = "gfx/leaders/RAJ/present_at_the_start/Portrait_The_Raj_Charles_Harvey.dds"
+		name = GFX_IND_charles_harvey
+		texturefile = "gfx/leaders/IND/present_at_the_start/Portrait_The_Ind_Charles_Harvey.dds"
 	}
 	
 	spriteType = {
-		name = GFX_portrait_RAJ_charles_harvey_small
-		texturefile = "gfx/interface/ideas/idea_RAJ_brij_charles_harvey.dds"
+		name = GFX_portrait_IND_charles_harvey_small
+		texturefile = "gfx/interface/ideas/idea_IND_brij_charles_harvey.dds"
 	}
 	
 	spriteType = {
-		name = GFX_RAJ_david_tennant
-		texturefile = "gfx/leaders/RAJ/present_at_the_start/Portrait_The_Raj_David_Tennant_Cowan.dds"
+		name = GFX_IND_david_tennant
+		texturefile = "gfx/leaders/IND/present_at_the_start/Portrait_The_Ind_David_Tennant_Cowan.dds"
 	}
 	
 	spriteType = {
-		name = GFX_portrait_RAJ_david_tennant_small
-		texturefile = "gfx/interface/ideas/idea_RAJ_david_tennant_cowan.dds"
+		name = GFX_portrait_IND_david_tennant_small
+		texturefile = "gfx/interface/ideas/idea_IND_david_tennant_cowan.dds"
 	}
 	
 	spriteType = {
-		name = GFX_RAJ_douglas_baird
-		texturefile = "gfx/leaders/RAJ/present_at_the_start/Portrait_The_Raj_Douglas_Baird.dds"
+		name = GFX_IND_douglas_baird
+		texturefile = "gfx/leaders/IND/present_at_the_start/Portrait_The_Ind_Douglas_Baird.dds"
 	}
 	
 	spriteType = {
-		name = GFX_portrait_RAJ_douglas_baird_small
-		texturefile = "gfx/interface/ideas/idea_RAJ_douglas_baird.dds"
+		name = GFX_portrait_IND_douglas_baird_small
+		texturefile = "gfx/interface/ideas/idea_IND_douglas_baird.dds"
 	}
 	
 	spriteType = {
-		name = GFX_RAJ_hiraji_jehangir_manekji_cursetji
-		texturefile = "gfx/leaders/RAJ/present_at_the_start/Portrait_The_Raj_Hiraji_Jehangir_Manekji_Cursetji.dds"
+		name = GFX_IND_hiraji_jehangir_manekji_cursetji
+		texturefile = "gfx/leaders/IND/present_at_the_start/Portrait_The_Ind_Hiraji_Jehangir_Manekji_Cursetji.dds"
 	}
 	
 	spriteType = {
 		name = GFX_portrait_hiraji_jehangir_manekji_cursetji_small
-		texturefile = "gfx/interface/ideas/idea_RAJ_hiraji_jehangir_manekji_cursetji.dds"
+		texturefile = "gfx/interface/ideas/idea_IND_hiraji_jehangir_manekji_cursetji.dds"
 	}
 	
 	spriteType = {
-		name = GFX_RAJ_brij_mohan_kaul
-		texturefile = "gfx/leaders/RAJ/need_to_be_promoted/Portrait_The_Raj_Brij_Mohan_Kaul.dds"
+		name = GFX_IND_brij_mohan_kaul
+		texturefile = "gfx/leaders/IND/need_to_be_promoted/Portrait_The_Ind_Brij_Mohan_Kaul.dds"
 	}
 	
 	spriteType = {
-		name = GFX_portrait_RAJ_brij_mohan_kaul_small
-		texturefile = "gfx/interface/ideas/idea_RAJ_brij_mohan_kaul.dds"
+		name = GFX_portrait_IND_brij_mohan_kaul_small
+		texturefile = "gfx/interface/ideas/idea_IND_brij_mohan_kaul.dds"
 	}
 	
 	spriteType = {
-		name = GFX_RAJ_ayub_khan
-		texturefile = "gfx/leaders/RAJ/need_to_be_promoted/Portrait_The_Raj_Ayub_Khan.dds"
+		name = GFX_IND_ayub_khan
+		texturefile = "gfx/leaders/IND/need_to_be_promoted/Portrait_The_Ind_Ayub_Khan.dds"
 	}
 	
 	spriteType = {
-		name = GFX_portrait_RAJ_ayub_khan_small
-		texturefile = "gfx/interface/ideas/idea_RAJ_ayub_khan.dds"
+		name = GFX_portrait_IND_ayub_khan_small
+		texturefile = "gfx/interface/ideas/idea_IND_ayub_khan.dds"
 	}
 }	

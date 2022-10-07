@@ -7,19 +7,19 @@ state={
 	state_category = town
 
 	history={
-		owner = RAJ
+		owner = IND
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
-			1321 = {
+			1238 = {
 				naval_base = 3
 			}
 		}
 		victory_points = {
-			7402 10
+			7402 13
 		}
 		victory_points = {
-			1321 15
+			1238 15
 		}
 	}
 
